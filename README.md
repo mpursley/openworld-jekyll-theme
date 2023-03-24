@@ -1,1 +1,1 @@
-# Jekyll Theme
+# OpenWorld Jekyll Theme
